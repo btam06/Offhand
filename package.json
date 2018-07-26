@@ -1,0 +1,11 @@
+{
+    "name": "offhand",
+    "version": "0.0.0",
+    "description": "Package collection and bootstrapper",
+    "author": "Avery Tam <btam06@gmail.com>",
+    "license": "MIT",
+    "repository": "btam06/Offhand",
+    "dependencies": {
+        "offhand-conditioner": "latest"
+    }
+}
