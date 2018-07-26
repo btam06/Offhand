@@ -1,6 +1,6 @@
 {
     "name": "offhand",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "description": "Package collection and bootstrapper",
     "author": "Avery Tam <btam06@gmail.com>",
     "license": "MIT",
