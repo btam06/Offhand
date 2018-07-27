@@ -2,4 +2,12 @@
 var conditioner = require("offhand-conditioner");
 
 // Bootstrap with default settings
-conditioner('body');
+var bootstrap = function() {
+    conditioner('body');
+}
+
+if (document.readyState ==='complete') {
+    bootstrap();
+} else {
+    document.addEventListener('DOMContentLoaded', bootstrap);
+}
