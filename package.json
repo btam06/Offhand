@@ -6,6 +6,7 @@
     "license": "MIT",
     "repository": "btam06/Offhand",
     "dependencies": {
-        "offhand-conditioner": "latest"
+        "offhand-conditioner": "latest",
+        "offhand-camouflage": "latest"
     }
 }
